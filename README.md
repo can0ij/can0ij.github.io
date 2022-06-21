@@ -1,9 +1,9 @@
-# Canon.com/ijsetup
+# [`Canon.com/ijsetup`](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 
+# [`Get Started here`](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 
-# [`Get Started here`](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
 
 Canon printers are one of the best in as per current users demand. Canon Printer Drivers regulates the printer and transforms the data into a format that a printer can easily understand. To set up your canon printer, you can visit the ij.start canon. and download the appropriate printer drivers, manual and guide for your printing device. It provides you a platform on which you can look up for your product and then download the appropriate software recommended by Canon.
 
